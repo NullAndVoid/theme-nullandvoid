@@ -1,7 +1,7 @@
-theme-apex
+theme-nullandvoid
 ==========
 
-The official theme repo for Apex. Fork this to use it as a boilerplate.
+Fork of the official theme repo for Apex.
 
 ## Getting Started
 
